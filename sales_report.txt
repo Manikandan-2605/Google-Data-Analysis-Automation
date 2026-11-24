@@ -1,0 +1,11 @@
+SALES ANALYSIS REPORT
+--------------------
+Total Revenue: Rs.242400
+Best Selling Product: Keyboard
+
+CITY WISE SALES:
+City
+Chennai        137000
+Coimbatore       6400
+Madurai         69000
+Tirunelveli     30000
